@@ -1,0 +1,10 @@
+{
+  "Name": "StardewCheat",
+  "Author": "Condou",
+  "Version": "1.0.0",
+  "Description": "A one cheat",
+  "UniqueID": "condou.stardewcheat",
+  "EntryDll": "StardewCheat.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
